@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128661146680",
+    "project_id": "healthcare-logistics",
+    "storage_bucket": "healthcare-logistics.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128661146680:android:f00212ad9aa9cbc1a2eacd",
+        "android_client_info": {
+          "package_name": "com.example.healthcare_logistics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RhhuqhYt80IhHNWo0AgyyeKpeNBKlic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
